@@ -1,0 +1,15 @@
+node_modules/
+public/
+.husky/
+src/assets/
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+# *.vue
+# *.html
+
+# *.css
+# *.less
